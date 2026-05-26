@@ -6,6 +6,8 @@ public:
         int ans=-1;
 
         for(int i=0;i<n;i++){
+            if(vis[i])
+                continue;
             unordered_map<int,int>mp;
             int node=i;
             int dist=0;
