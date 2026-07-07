@@ -14,7 +14,6 @@ public:
                 sum+=(c-'0');
             }
         }
-        int a = stoi(ans);
         return stoi(ans) * sum;
     }
 };
