@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool findright(vector<int>&have,vector<int>&needed){
-        for(int i=0;i<255;i++){
+        for(int i=0;i<127;i++){
             if(needed[i]>have[i])
                 return false;
         }
@@ -9,8 +9,11 @@ public:
     }
 
     string minWindow(string s, string t) {
-        vector<int>needed(256,0);
-        vector<int>have(256,0);
+        int n=s.size(),m=t.size();
+        if(m>n)
+            return "";
+        vector<int>needed(128,0);
+        vector<int>have(128,0);
 
         for(char c:t)
             needed[c]++;
