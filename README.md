@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Sidh1818/LeetCode-Daily-Challenge/tree/master/0016-3sum-closest) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Sidh1818/LeetCode-Daily-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Sidh1818/LeetCode-Daily-Challenge/tree/master/0016-3sum-closest) |
+## Math
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Sidh1818/LeetCode-Daily-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Sidh1818/LeetCode-Daily-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
